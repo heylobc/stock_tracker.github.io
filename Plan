@@ -1,0 +1,11 @@
+Draft and plan
+Investment tools for indivialuals
+features:
+1. alert with telegram
+2. different kinds of alert options, by price, by change %, by time, by technical signals etc...
+3. have news feed sentiment analysis
+4. limit to 1 US stock for this version
+5. have chart or data from investing.com
+6. register by telegram account
+7. recapcha by cloudfare
+8. flask, python, mysql / html, javascript
